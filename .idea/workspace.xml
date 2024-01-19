@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b183c10d-3ee1-40ca-8877-8309b0ff9574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
-    </list>
+    <list default="true" id="b183c10d-3ee1-40ca-8877-8309b0ff9574" name="Changes" comment="Algorithm design different solutions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,11 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705652161311</updated>
-      <workItem from="1705652162324" duration="2626000" />
+      <workItem from="1705652162324" duration="2992000" />
     </task>
+    <task id="LOCAL-00001" summary="Algorithm design different solutions">
+      <option name="closed" value="true" />
+      <created>1705655122854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705655122854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algorithm design different solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm design different solutions" />
   </component>
 </project>

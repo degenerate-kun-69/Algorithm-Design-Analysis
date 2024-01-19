@@ -4,10 +4,8 @@ public class Factorial {
         System.out.println("Enter number to print factorial");
         Scanner sc= new Scanner(System.in);
         int number= sc.nextInt();
-        int factorial=iterative(number);
-        int factorialrecursive=recursive(number);
-        System.out.println("Iterative solution: "+factorial);
-        System.out.println("Recursive solution: "+factorialrecursive);
+        System.out.println("Iterative solution: "+iterative(number));
+        System.out.println("Recursive solution: "+recursive(number));
     }
     public static int iterative(int n) {
         int fact=1;
